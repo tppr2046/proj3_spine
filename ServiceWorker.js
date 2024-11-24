@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-P5_Ladyboy_Show-0.1.0";
 const contentToCache = [
     "Build/proj3_spine.loader.js",
-    "Build/proj3_spine.framework.js.br",
-    "Build/proj3_spine.data.br",
-    "Build/proj3_spine.wasm.br",
+    "Build/proj3_spine.framework.js.unityweb",
+    "Build/proj3_spine.data.unityweb",
+    "Build/proj3_spine.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
